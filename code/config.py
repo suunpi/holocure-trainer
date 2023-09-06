@@ -21,13 +21,13 @@ def save_editor_info():
     ]
     
     # Armorys
-    items = [
-        'BodyPillow', 'FullMeal', 'PikiPikiPiman', 'SuccubusHorn', 'Headphones', 'UberSheep', 'HolyMilk', 'Sake', 'FaceMask', 'CreditCard', 'GorillasPaw', 'InjectionAsacoco', 'IdolCostume', 'Plushie', 'StudyGlasses', 'SuperChattoTime', 'EnergyDrink', 'Halu', 'Membership', 'GWSPill', 'ChickensFeather', 'Bandaid', 'Limiter', 'PiggyBank', 'DevilHat', 'BlacksmithsGear', 'Breastplate', 'HopeSoda', 'Shacklesss', 'Candy', 'NinjaHeadband', 'FocusShades', 'Beetle', 'LabCoat'
-    ]
+     items = [
+            'Sake', 'FaceMask', 'CreditCard' 'SuperChattoTime', 'ChickensFeather', 'BlacksmithsGear', 'HopeSoda'
+        ]
     
-    weapons = [
-        'PsychoAxe', 'Glowstick', 'SpiderCooking', 'Tailplug', 'BLBook', 'EliteLava', 'HoloBomb', 'HoloLaser', 'CuttingBoard', 'IdolSong', 'CEOTears', 'WamyWater', 'XPotato', 'BounceBall', 'ENCurse', 'Sausage'
-    ]
+     weapons = [
+            'Glowstick', 'IdolSong', 'WamyWater', 'XPotato', 'ENCurse'
+        ]
     
     collabs = [
         'BreatheInAsacoco', 'DragonBeam', 'EliteCooking', 'FlatBoard', 'MiComet', 'BLLover', 'LightBeam', 'IdolConcert', 'StreamOfTears', 'MariLamy', 'BrokenDreams', 'RapDog', 'BoneBros', 'RingOfFitness', 'MiKorone', 'SnowSake', 'ImDie', 'AbsoluteWall', 'EldritchHorror', 'StarHalberd', 'CurseBall', 'KanaCoco', 'LegendarySausage', 'Jingisukan', 'LightningWeiner', 'SnowQueen', 'IdolLive'
